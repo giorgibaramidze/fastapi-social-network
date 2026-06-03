@@ -1,0 +1,23 @@
+# venv
+.venv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# env files
+.env
+
+# git
+.git/
+.gitignore
+
+# ide
+.vscode/
+.idea/
+
+# alembic versions
+# alembic/versions/
